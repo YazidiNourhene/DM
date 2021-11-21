@@ -1,1 +1,1 @@
-libgles2-mesa-glx
+libgles1-mesa-glx
