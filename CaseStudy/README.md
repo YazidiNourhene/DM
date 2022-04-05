@@ -1,1 +1,1 @@
-Analyzing Marketing Campaigns with pandas-checkpoint
+Analyzing Marketing Campaigns with pandas
